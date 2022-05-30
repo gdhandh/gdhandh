@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, Typescript
 - 🌱 I’m currently learning  three js, Advanced D3 js
 - 💞️ I’m looking to collaborate on Angular, React and
-- 📫 How to reach me gdhandh@gmail.com
+- 📫 How to reach me goutam.dhandh@dreamorbit.com
 
 <!---
 gdhandh/gdhandh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
