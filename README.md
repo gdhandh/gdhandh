@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Goutam
 - 👀 I’m interested in JS, Typescript
 - 🌱 I’m currently learning  three js, Advanced D3 js
-- 💞️ I’m looking to collaborate on Angular, React.
 - 📫 How to reach me goutam.dhandh@dreamorbit.com
 
 <!---
